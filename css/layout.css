@@ -189,7 +189,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #b5751c; }
+#about a:hover, #about a:focus { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -237,7 +237,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #b5751c; }
+#resume a, #resume a:visited  { color: #F06000; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -776,7 +776,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #b5751c; }
+#contact a, #contact a:visited  { color: #F06000; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
