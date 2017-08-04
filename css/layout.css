@@ -124,7 +124,8 @@ header .scrolldown a:hover { color: #F06000; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+    font-family: 'Fredoka One', cursive;
+   font: 12px;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
