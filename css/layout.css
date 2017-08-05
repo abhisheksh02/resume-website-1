@@ -644,7 +644,8 @@ ul#nav li.current a { color: #e74c3c; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
-   font: 24px/24px, sans-serif;
+    font-family: 'McLaren', cursive;
+   font: 24px/24px;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
